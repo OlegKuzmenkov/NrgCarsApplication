@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NrgCarsApplication</string>
+    <string name="sort_button">Sort list by car model</string>
+</resources>
